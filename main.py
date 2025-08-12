@@ -20,4 +20,15 @@ elif a == 5:
 
 elif a == 6:
     print("Июнь")
-    
+
+
+
+elif a == 7:
+    print("Июль")
+
+elif a == 8:
+    print("Август")
+
+elif a == 9:
+    print("Сентябрь")
+
