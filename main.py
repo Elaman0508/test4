@@ -24,5 +24,33 @@ elif a == 6:
 
 
 
+
 elif a == 13:
     print("elsham")
+
+elif a == 7:
+    print("Июль")
+
+elif a == 8:
+    print("Август")
+
+elif a == 9:
+    print("Сентябрь")
+
+
+
+elif a == 10:
+    print("Октябрь")
+
+elif a == 11:
+    print("Ноябрь")
+
+
+elif a == 12: print("Декабрь")
+
+
+
+
+elif a  == 14:
+    print("Elsham")
+
