@@ -32,3 +32,13 @@ elif a == 8:
 elif a == 9:
     print("Сентябрь")
 
+
+
+elif a == 10:
+    print("Октябрь")
+
+elif a == 11:
+    print("Ноябрь")
+
+elif a == 12:
+    print("Декабрь")
