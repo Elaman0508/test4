@@ -9,3 +9,6 @@ elif a == 2:
 
 elif a == 3:
     print("Март")
+
+elif a == 4:
+    print("Апрель")
