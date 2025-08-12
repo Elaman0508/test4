@@ -12,3 +12,12 @@ elif a == 3:
 
 elif a == 4:
     print("Апрель")
+
+
+elif a == 5:
+    print("Май")
+
+
+elif a == 6:
+    print("Июнь")
+    
